@@ -1,7 +1,9 @@
-# Implementing a Test Adapter for Visual Studio Code
+# Example Test Adapter for Visual Studio Code
 
 This repository contains an example for implementing a `TestAdapter` extension that works with the
 [Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) extension.
+
+More documentation can be found in the [Test Adapter API repository](https://github.com/hbenl/vscode-test-adapter-api).
 
 ## Setup
 
