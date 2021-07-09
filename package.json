@@ -39,7 +39,7 @@
   "devDependencies": {
     "@types/vscode": "~1.23.0",
     "typescript": "^3.5.3",
-    "vsce": "^1.65.0"
+    "vsce": "^1.95.1"
   },
   "engines": {
     "vscode": "^1.23.0"
